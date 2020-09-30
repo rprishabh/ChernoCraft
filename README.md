@@ -1,4 +1,4 @@
 ChernoCraft
 ===========
 
-A small Minecraft clone in C++.
+A small Minecraft clone in C++ Language.
